@@ -98,3 +98,4 @@ function load() {
 function funcaoChange(elemento) {
     console.log(elemento.value);
 }
+
